@@ -1,0 +1,12 @@
+controller
+model
+model.capacities
+model.fight
+model.league
+model.pokedex
+model.pokemon
+model.trainer
+model.type
+view
+view.panels
+view.util
